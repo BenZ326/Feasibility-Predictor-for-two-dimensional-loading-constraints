@@ -4,4 +4,5 @@
 * Parse a packing instance
 * Pass the feature of the instance to the predictor and obtain the prediction
 ------------------
-One could open up the .ipynp in the repo to see the instruction. If you have any question regarding the predictor, feel free to contact me through my [personal website](https://arccos0.github.io/).
+The .pt file in the repo is a serilized format of the predictor. One could parse the file in either python or C++. The .ipynp file gives the details of the instruction, which is written in python and depends on Pytorch. <br>
+If you have any question regarding the predictor, feel free to contact me through my [personal website](https://arccos0.github.io/).
