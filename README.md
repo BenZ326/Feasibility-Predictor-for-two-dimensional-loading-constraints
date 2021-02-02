@@ -1,8 +1,11 @@
 # Feasibility-Predictor-for-two-dimensional-loading-constraints
-## This is a simple instruction on how to apply the feasibility predictor. The main steps include:<br>
-* Load the feasibility predictor
-* Parse a packing instance
-* Pass the feature of the instance to the predictor and obtain the prediction
-------------------
+## This is a repo for the paper "Learning-based branch-and-price algorithms for a vehicle routing problem with time windows and two-dimensional loading constraints on how to apply the feasibility predictor".
+### The repo includes:
+* The training samples
+* The testing samples
+* All the instances used to generate the training samples
+* The trained feasibility predictor
+* A static lib to deploy the feasibility predictor in C++ in Windows system.
+* The instruction to show how to train, test and apply the feasibility predictor in python. 
 The .pt file in the repo is a serilized format of the predictor. One could parse the file in either python or C++. The .ipynp file gives the details of the instruction, which is written in python and depends on Pytorch. <br>
-If you have any question regarding the predictor, feel free to contact me through my [personal website](https://arccos0.github.io/).
+If you have any question regarding the project, feel free to contact me through my [personal website](https://arccos0.github.io/).
