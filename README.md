@@ -1,5 +1,5 @@
 # Feasibility-Predictor-for-two-dimensional-loading-constraints
-## This is a repo for the paper "Learning-based branch-and-price algorithms for a vehicle routing problem with time windows and two-dimensional loading constraints on how to apply the feasibility predictor".
+## This is a repo for the paper "Learning-based branch-and-price algorithms for a vehicle routing problem with time windows and two-dimensional loading constraints".
 ### The repo includes:
 * The training samples
 * The testing samples
